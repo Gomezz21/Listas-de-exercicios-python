@@ -8,3 +8,4 @@ numero = int(input('Informe um valor: '))
 resultado = numero * 2
 #saída
 print('O resultado é: ',resultado)
+gostosa sexo anal
